@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Normalize CSS first -->
+    <link rel="stylesheet" href="css/normalize.css">
+
+    <!-- Your custom CSS second -->
+    <link rel="stylesheet" href="Slot-Machine.css">
+
+    <title>CT's Slot Machine</title>
+</head>
+
+<body>
+
+    <main>
+
+        <h1>CT's Slot Machine 🎰</h1>
+
+        <!-- Displays the player's balance -->
+        <h2>
+            Balance: $<span id="balance">300</span>
+        </h2>
+
+        <section id="reels">
+
+            <section id="reelOne">
+                🍒
+            </section>
+
+            <section id="reelTwo">
+                🍋
+            </section>
+
+            <section id="reelThree">
+                ⭐
+            </section>
+
+        </section>
+
+        <section id="buttons">
+
+            <button type="button" id="minBet">
+                Min Bet
+            </button>
+
+            <button type="button" id="spinBtn">
+                Spin
+            </button>
+
+            <button type="button" id="maxBet">
+                Max Bet
+            </button>
+        </section>
+        <p>
+            Current Bet: $<span id="currentBet">0</span>
+        </p>
+
+        <p id="result"></p>
+
+    </main>
+
+    <script src="Slot-Machine.js"></script>
+</body>
+
+</html>
