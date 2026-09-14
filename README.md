@@ -2,23 +2,29 @@
 
 ### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with a minimum of 5 items per reel and 3 reels - the user should be able to bet min or max and have their total updated
+I built a slot machine using HTML, CSS, and JavaScript. I used at least 5 tiers per reel and 3 reels to show their update. 
 
-### How to submit your code for review:
+### Features: 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+The slot machine reels. 
+Five possible symbols/items per reel. 
+There are minimum and maximum betting options. 
+The amount after each bet is adjusted each time you make a bet. 
+It displays the results once spun. 
+It determines if you win or lose. 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure my constructors are set up cleanly.
-```
+### What it's built with: 
+
+- HTML
+- CSS
+- JavaScript
+
+  ### What I learned:
+  While building this project, I used what I practiced in JavaScript and connected it with my HTML and CSS files.
+  I used Conditionals and Variables in my JavaScript file.
+  I updated the values displayed on the page. 
+
+  ### Author:
+
+  Sushana Thomas
+
