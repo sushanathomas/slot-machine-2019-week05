@@ -1,8 +1,8 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# 🎰 Slot Machine Project
 
 ### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+Build a simple slot machine with a minimum of 5 items per reel and 3 reels - the user should be able to bet min or max and have their total updated
 
 ### How to submit your code for review:
 
@@ -20,5 +20,5 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+I'm not sure my constructors are set up cleanly.
 ```
