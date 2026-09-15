@@ -24,6 +24,10 @@ It determines if you win or lose.
   I used Conditionals and Variables in my JavaScript file.
   I updated the values displayed on the page. 
 
+- `Slot-Machine.html` — Structure of the Todo List
+- `Slot-Machine.css` — Styling and layout
+- `Slot-Machine.js` — Todo List functionality
+  
   ### Author:
 
   Sushana Thomas
