@@ -4,6 +4,10 @@
 
 I built a slot machine using HTML, CSS, and JavaScript. I used at least 5 tiers per reel and 3 reels to show their update. 
 
+## 📸 Project Preview
+
+[Slot Machine Screenshot](slot-machine-screenshot.png)
+
 ### Features: 
 
 The slot machine reels. 
