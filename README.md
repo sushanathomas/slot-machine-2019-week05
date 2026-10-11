@@ -4,9 +4,7 @@
 
 I built a slot machine using HTML, CSS, and JavaScript. I used at least 5 tiers per reel and 3 reels to show their update. 
 
-## 📸 Project Preview
-
-[Slot Machine Screenshot](slot-machine-screenshot.png)
+<img width="781" height="603" alt="Slot Machine" src="https://github.com/user-attachments/assets/f245411c-225a-4a07-9e76-a9a4d724f4bd" />
 
 ### Features: 
 
@@ -32,7 +30,4 @@ It determines if you win or lose.
 - `Slot-Machine.css` — Styling and layout
 - `Slot-Machine.js` — Todo List functionality
   
-  ### Author:
-
-  Sushana Thomas
 
